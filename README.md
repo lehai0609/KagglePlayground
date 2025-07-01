@@ -1,2 +1,2 @@
-# KagglePlaygroundS04E01
-Kaggle Playground S04E01 Binary Classification of Bank Churn Dataset
+# KagglePlayground
+Place for all Kaggle Playground notebooks
